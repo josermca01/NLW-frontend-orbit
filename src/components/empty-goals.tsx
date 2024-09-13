@@ -1,5 +1,5 @@
-import logo from '../assets/logo-in-orbit.svg'
-import letsStart from '../assets/lets-start-illustration.svg'
+import logo from '../assets/in-orbit-logo.svg'
+import letsStart from '../assets/rocket-launch-illustration.svg'
 
 import { DialogTrigger } from './ui/dialog'
 import { Button } from './ui/button'
